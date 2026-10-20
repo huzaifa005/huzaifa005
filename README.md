@@ -152,10 +152,10 @@ Have a product idea, a design challenge, or a project that needs both clear thin
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-huzaifanaeem.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://huzaifanaeem.me/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifanaeem06/)
-[![Behance](https://img.shields.io/badge/Behance-View%20Work-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/huzaifanaeeem)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifnaeem06@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-BBEC42?style=for-the-badge&logo=googlechrome&logoColor=111827)](https://huzaifanaeem.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-111827?style=for-the-badge&logo=linkedin&logoColor=BBEC42)](https://www.linkedin.com/in/huzaifanaeem06/)
+[![Behance](https://img.shields.io/badge/Behance-View%20Work-111827?style=for-the-badge&logo=behance&logoColor=BBEC42)](https://www.behance.net/huzaifanaeeem)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-111827?style=for-the-badge&logo=gmail&logoColor=BBEC42)](mailto:huzaifnaeem06@gmail.com)
 
 </div>
 
