@@ -1,168 +1,166 @@
-<!-- Only YOUR_LINKEDIN and YOUR_BEHANCE are left to replace -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,100:6366F1&text=Huzaifa%20Naeem&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Product%20Designer%20%7C%20UI%2FUX%20%2B%20Frontend%20Dev&descAlignY=60&descSize=16" alt="Huzaifa Naeem banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:111827,100:7C3AED&text=Huzaifa%20Naeem&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Product%20Design%20%E2%80%A2%20SaaS%20%E2%80%A2%20Frontend&descAlignY=60&descSize=16" alt="Huzaifa Naeem — Product Design, SaaS and Frontend" width="100%" />
 
-<a href="https://huzaifa005.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=6366F1&center=true&vCenter=true&width=600&lines=Designing+SaaS+products+that+actually+ship;I+design+it.+I+build+it.+I+ship+it.;Design+systems+%2B+clean+developer+handoff;Based+in+Karachi%2C+working+worldwide" alt="Typing intro" />
-</a>
+### Senior Product Designer · Product Thinking · Design-to-Development
 
-<br />
+**I work across the product lifecycle, from shaping the idea to designing the experience and helping bring it to life.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=huzaifa005&style=flat-square&color=6366F1&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/huzaifa005?style=flat-square&color=6366F1&labelColor=0F172A)
-![Location](https://img.shields.io/badge/Karachi%2C_Pakistan-0F172A?style=flat-square&logo=googlemaps&logoColor=white)
-![Availability](https://img.shields.io/badge/Open_to_Remote_Work-6366F1?style=flat-square)
+[Portfolio](https://huzaifanaeem.me/) · [LinkedIn](https://www.linkedin.com/in/huzaifanaeem06/) · [Behance](https://www.behance.net/huzaifanaeeem) · [Email](mailto:huzaifnaeem06@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=huzaifa005&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/huzaifa005?style=flat-square&color=7C3AED&label=FOLLOWERS)
+![Location](https://img.shields.io/badge/Karachi%2C%20Pakistan-111827?style=flat-square)
 
 </div>
 
-<br />
+---
 
-## 👋 About
+## About
 
-I'm a **Senior Product Designer** who sits at the intersection of design, development and business. I started in graphic design, specialized in UI/UX, and now take products from first idea to a live, working front-end.
+I'm a **Senior Product Designer at GYB Commerce**, working where product design, business goals, and implementation meet. My background spans brand identity and visual design, UI/UX, SaaS products, and increasingly, frontend development.
 
-I'm the co-founder of **InnovaX Digital**, a small design and development studio, and I'm pursuing a **BS in Computer Science** so that what I design and what gets built stay close together.
+I enjoy working on products beyond individual screens. That means understanding the problem, shaping the product structure, mapping user journeys, defining interface patterns, building a consistent design system, and collaborating with developers to get the experience implemented properly.
 
-<br />
+Alongside my product work, I build with **InnovaX Digital** and continue strengthening my computer science and development skills. I use modern tools to move faster, but the decisions still come back to the user, the product, and the problem we're solving.
 
-## 🧭 What I Do
+**My approach:** understand the problem → plan the experience → design the system → work with the team → ship and improve.
+
+## What I Work On
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🎨 Product Design</h3>
-      <p>UX strategy, user flows, information architecture and polished UI for web and SaaS products.</p>
+    <td width="50%" valign="top">
+      <h3>01 / Product Strategy & UX</h3>
+      Product structure, information architecture, user journeys, user flows, wireframes, interaction design, usability considerations, and turning unclear requirements into a buildable plan.
     </td>
-    <td width="33%" valign="top">
-      <h3>🧩 Design Systems</h3>
-      <p>Scalable Figma systems with reusable components and clean developer handoff.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3>⚡ Front-End Builds</h3>
-      <p>Responsive interfaces in HTML, CSS and JavaScript, plus Webflow, Framer and WordPress.</p>
+    <td width="50%" valign="top">
+      <h3>02 / SaaS & Product UI</h3>
+      Dashboards, admin panels, complex workflows, onboarding, data-heavy interfaces, responsive layouts, reusable components, design systems, and high-fidelity prototypes.
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
-      <h3>🛒 eCommerce UX</h3>
-      <p>Product discovery, trust signals and checkout flows built around real buying decisions.</p>
+    <td width="50%" valign="top">
+      <h3>03 / Branding & Visual Systems</h3>
+      Brand direction, logo design, typography, color systems, visual identity, guidelines, marketing assets, and consistent brand experiences across digital touchpoints.
     </td>
-    <td width="33%" valign="top">
-      <h3>🏷️ Brand Identity</h3>
-      <p>Logo, color, typography and guidelines that stay consistent across every touchpoint.</p>
+    <td width="50%" valign="top">
+      <h3>04 / Frontend & Implementation</h3>
+      Translating Figma designs into responsive interfaces, refining generated code, building reusable UI, checking responsive behaviour, and collaborating with developers on implementation details.
     </td>
-    <td width="33%" valign="top">
-      <h3>🤖 AI Workflows</h3>
-      <p>Claude, MCPs and agent tooling to speed up research, content modelling and QA.</p>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>05 / Websites & CMS</h3>
+      Marketing websites, landing pages, content-managed websites, eCommerce experiences, and site updates using tools such as Framer, Webflow, and WordPress.
+    </td>
+    <td width="50%" valign="top">
+      <h3>06 / AI Products & Workflows</h3>
+      Designing AI-enabled product experiences, agent interfaces, automation flows, and human-in-the-loop interactions where the user stays informed and in control.
     </td>
   </tr>
 </table>
 
-<br />
+## How I Work
 
-## 🛠️ Toolbox
+I don't treat design as a handoff of pretty screens. I try to keep the product intent clear throughout the process and work closely with developers and other stakeholders.
 
-<div align="center">
+1. **Understand** — clarify the business goal, user needs, requirements, and constraints.
+2. **Structure** — define the information architecture, key journeys, edge cases, and product flows.
+3. **Design** — explore wireframes, visual direction, UI patterns, components, and interactive prototypes.
+4. **Collaborate** — review feasibility with developers, document behaviour, and keep design decisions connected to implementation.
+5. **Build & refine** — work on the frontend where appropriate, test responsive states, and iterate based on feedback.
 
-**Design**
+## Toolbox
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai,ae&theme=dark" alt="Design tools" />
+Tools I use or explore across design, development, product delivery, and infrastructure. My level of hands-on experience varies by tool and project.
 
-**Build**
+### Product Design & Creative
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react&theme=dark" alt="Build stack" />
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae&theme=dark" alt="Figma, Photoshop, Illustrator and After Effects" />
+</p>
 
-**No-Code and CMS**
+- **Product design:** Figma, FigJam, wireframing, prototyping, design systems, developer handoff
+- **Visual design:** Photoshop, Illustrator, After Effects, brand identity, campaign design
 
-<img src="https://skillicons.dev/icons?i=webflow,framer,wordpress,shopify&theme=dark" alt="No-code and CMS" />
+### Frontend & Web
 
-**Workflow and Deploy**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode&theme=dark" alt="HTML, CSS, JavaScript, React, Git, GitHub and VS Code" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Workflow tools" />
+- **Core web:** HTML, CSS, JavaScript
+- **UI development:** React, responsive layouts, reusable components, design-to-code refinement
+- **Version control & workflow:** Git, GitHub, VS Code
 
-<sub>React: currently learning</sub>
+### Websites, CMS & eCommerce
 
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=wordpress,webflow,framer,shopify&theme=dark" alt="WordPress, Webflow, Framer and Shopify" />
+</p>
 
-<br />
+- WordPress, Webflow, Framer, Shopify, WooCommerce
+- Landing pages, CMS-driven sites, storefront content, and responsive website implementation
 
-## 🚀 Featured Work
+### Backend, Data & Cloud
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/huzaifa005/huzaifa005.github.io">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa005&repo=huzaifa005.github.io&theme=transparent&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&border_color=1E293B" alt="Portfolio website" />
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/huzaifa005/AI-linkedin-Job-Agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa005&repo=AI-linkedin-Job-Agent&theme=transparent&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&border_color=1E293B" alt="AI LinkedIn Job Agent" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://github.com/huzaifa005/InnovaX-Agency-Website">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huzaifa005&repo=InnovaX-Agency-Website&theme=transparent&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&border_color=1E293B" alt="InnovaX agency website" />
-      </a>
-    </td>
-  </tr>
-</table>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,supabase,firebase,azure,gcp&theme=dark" alt="Python, Django, Supabase, Firebase, Microsoft Azure and Google Cloud" />
+</p>
 
-| Project | What it is | Link |
+- **Backend learning & collaboration:** Python, Django, APIs, application architecture
+- **Backend services & data:** Supabase, Firebase
+- **Cloud platforms:** Microsoft Azure, Google Cloud
+
+These technologies are part of my expanding technical toolbox; I don't claim equal depth or production experience with every item.
+
+### AI-Assisted Workflow
+
+- Claude and ChatGPT for exploration, implementation support, debugging, and learning
+- AI-assisted frontend workflows, followed by manual review for layout, responsiveness, consistency, and usability
+- Workflow automation and API concepts as part of ongoing product and technical exploration
+
+## Selected Work
+
+A few areas represented in my work include product interfaces, SaaS workflows, brand systems, and web experiences.
+
+| Project area | Focus | View |
 |---|---|---|
-| **Portfolio Website** | Single-page personal portfolio: hero, services, case studies, process and a contact page. Static HTML, CSS and JS on GitHub Pages. | [Live site](https://huzaifa005.github.io) |
-| **AI LinkedIn Job Agent** | Browser-automation agent concept for job search, filtering and data extraction, with a responsive dashboard UI. Human-directed, AI-built. | [Live UI](https://ai-linkedin-job-agent.vercel.app/) |
-| **InnovaX Agency Website** | Website for my design and development studio. | [Repository](https://github.com/huzaifa005/InnovaX-Agency-Website) |
+| Product & SaaS UI | Product structure, dashboards, workflows, and interface systems | [Portfolio](https://huzaifanaeem.me/) |
+| Brand Identity | Visual direction, logo systems, typography, and brand applications | [Behance](https://www.behance.net/huzaifanaeeem) |
+| AI LinkedIn Job Agent | An AI-assisted job-search concept and dashboard interface | [Project UI](https://ai-linkedin-job-agent.vercel.app/) |
+| InnovaX Digital | Design and development studio work | [GitHub repository](https://github.com/huzaifa005/InnovaX-Agency-Website) |
 
-<br />
+For more context and visual case studies, visit my [portfolio](https://huzaifanaeem.me/) and [Behance profile](https://www.behance.net/huzaifanaeeem).
 
-## 🌱 Currently
+## Current Focus
 
-| | |
-|---|---|
-| 🔭 **Working on** | Enterprise product design and front-end delivery at GYB Commerce |
-| 🏗️ **Building** | Client projects and products with InnovaX Digital |
-| 📚 **Learning** | React, front-end architecture and computer science fundamentals |
-| 🤝 **Open to** | Remote collaborations, freelance projects and product design roles |
+- Designing and improving SaaS products with a stronger product-systems mindset
+- Getting more hands-on with frontend implementation and component architecture
+- Improving the collaboration between Figma design decisions and working code
+- Learning more about APIs, backend concepts, and cloud platforms
+- Exploring practical AI product experiences and workflow automation
 
-<br />
+## Outside the Screen
 
-## 📊 GitHub Stats
+I'm pursuing a BS in Computer Science while working in product design. Studying CS helps me better understand the technical decisions behind the products I design and collaborate on.
+
+## Let's Connect
+
+Have a product idea, a design challenge, or a project that needs both clear thinking and thoughtful execution? Let's talk.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=huzaifa005&show_icons=true&theme=transparent&title_color=6366F1&icon_color=6366F1&text_color=94A3B8&border_color=1E293B" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifa005&layout=compact&theme=transparent&title_color=6366F1&text_color=94A3B8&border_color=1E293B" alt="Top languages" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-huzaifanaeem.me-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://huzaifanaeem.me/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifanaeem06/)
+[![Behance](https://img.shields.io/badge/Behance-View%20Work-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/huzaifanaeeem)
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:huzaifnaeem06@gmail.com)
 
 </div>
 
-<br />
-
-## 🤝 Let's Connect
+---
 
 <div align="center">
-
-<a href="https://huzaifa005.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=6366F1" alt="Portfolio" />
-</a>
-<a href="https://www.linkedin.com/in/huzaifanaeem06/">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=6366F1" alt="LinkedIn" />
-</a>
-<a href="https://www.behance.net/huzaifanaeeem">
-  <img src="https://img.shields.io/badge/Behance-0F172A?style=for-the-badge&logo=behance&logoColor=6366F1" alt="Behance" />
-</a>
-<a href="mailto:huzaifnaeem06@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=6366F1" alt="Email" />
-</a>
-
-<br /><br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:6366F1,100:0F172A&section=footer" alt="Footer" width="100%" />
-
+  <sub>Designed with intention. Built through collaboration. Improved through iteration.</sub>
 </div>
