@@ -8,9 +8,6 @@
 
 [Portfolio](https://huzaifanaeem.me/) · [LinkedIn](https://www.linkedin.com/in/huzaifanaeem06/) · [Behance](https://www.behance.net/huzaifanaeeem) · [Email](mailto:huzaifnaeem06@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=huzaifa005&style=flat-square&color=7C3AED&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/huzaifa005?style=flat-square&color=7C3AED&label=FOLLOWERS)
-![Location](https://img.shields.io/badge/Karachi%2C%20Pakistan-111827?style=flat-square)
 
 </div>
 
